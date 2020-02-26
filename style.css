@@ -1,0 +1,17 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  padding-top: 80px;
+  padding-right: 50px;
+  color: #636363;
+}
+
+.ui.centered.image {
+  max-width: 107px;
+  width: 100%;
+}
+
+.ui.borderless.middle.menu {
+  box-shadow: none;
+  border: none;
+}
